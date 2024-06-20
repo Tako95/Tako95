@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Unity and C++
 - 💞️ I’m looking to collaborate on anythin i can get my hands on
 - 📫 How to reach me. Email me @philip.okoye00@gmail.com
-- 😄 Pronouns: They/Them
+- 😄 Pronouns: He/They
 - ⚡ Fun fact: ...
 
 <!---
